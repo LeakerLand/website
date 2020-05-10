@@ -160,7 +160,7 @@ $s['aria2NoticeTitle'] = '使用 aria2 选项创建下载';
 $s['aria2NoticeText1'] = '使用 aria2 选项下载可创建需要下载的存档，下载的存档包含实现所选任务所需的所有文件。';
 $s['aria2NoticeText2'] = '要开始下载过程，请使用适用于你的平台的脚本：';
 $s['aria2NoticeText3'] = 'Aria2 是一个开源项目，你可以在这里找到它：%s。'; //Aria2 is an open source project. You can find it here: https://aria2.github.io/.
-$s['aria2NoticeText4'] = 'UUP 转换脚本（Windows 版本）已由 %s 创建。'; //UUP Conversion script (Windows version) has been created by abbodi1406.
+$s['aria2NoticeText4'] = 'UUP 转换脚本（Windows 版本）由 %s 创建。'; //UUP Conversion script (Windows version) has been created by abbodi1406.
 $s['aria2NoticeText5'] = 'UUP 转换脚本（Linux 版本, macOS 版本）是开源的，你可以在这里找到它：%s。'; //UUP Conversion script (Linux version, macOS version) is open source. You can find it here: https://github.com/uup-dump/converter.
 
 //findfiles.php
@@ -176,7 +176,7 @@ $s['error'] = '错误';
 $s['requestNotSuccessful'] = '请求未成功';
 $s['anErrorHasOccurred'] = '在尝试处理你的请求时发生错误。';
 $s['generatedPackNotAvailable'] = '生成的包不可用';
-$s['generatedPackNotAvailableDesc'] = '你尝试下载的更新没有提供包含有关可用语言，版本和文件的完整信息用以生成包。因此将提供替代包，它可能无法提供正确的信息。如果因此导致下载失败，请等待自动生成的可用包。';
+$s['generatedPackNotAvailableDesc'] = '你尝试下载的更新没有提供包含有关可用语言、版本和文件的完整信息用以生成包。因此将提供替代包，它可能无法提供正确的信息。如果因此导致下载失败，请等待自动生成的可用包。';
 $s['arm64Warning'] = '你选择的 ARM64 版本<b>仅与基于 ARM64 的设备兼容</b> ，并且不适用于常规基于 Intel 或 AMD 的 PC。对于 <b>64 位</b>的 PC，请使用 <b>amd64</b> 版本。对于 <b>32 位</b> PC，请使用 <b>x86</b> 版本。如果你确定目标设备是基于 ARM64 的，则可以放心地忽略此消息。';
 
 //Error messages
